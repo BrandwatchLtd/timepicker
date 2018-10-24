@@ -19,11 +19,11 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "bower": "~1.7.9",
-    "mocha": "~2.5.3",
-    "serve": "~1.4.0",
-    "testem": "~1.9.0",
-    "phantomjs-prebuilt": "~2.1.7"
+    "bower": "^1.8.4",
+    "mocha": "^5.2.0",
+    "phantomjs-prebuilt": "~2.1.7",
+    "serve": "^10.0.2",
+    "testem": "^2.13.0"
   },
   "optionalDependencies": {}
 }
